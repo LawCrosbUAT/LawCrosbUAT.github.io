@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    background-image: linear-gradient(90deg, white, aqua);
+}
+
+.eventDrivenButtons {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50px;
+    border-color: aqua;
+}
+
+.navigationButtons {
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50px;
+    border-color: black;
+}
+
+.soundButton {
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50px;
+    border-color: black;
+}

@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    background-image: linear-gradient(90deg, white, aqua);
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    padding: 5px;
+    font-size: large;
+}
+
+li {
+    padding: 5px;
+    font-size: large;
+}
+
+.navigationButtons {
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50px;
+    border-color: black;
+}
